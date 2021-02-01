@@ -1,0 +1,27 @@
+p {
+ color: #ff0000;
+}
+p{
+background-color: #BF7F3F;
+}
+#specialid {
+color: #114470;
+}
+.specialp {
+ color: #BF3F7F;
+}
+a {
+ color: #BF7F3F;
+}
+a:link {
+ color: #BF3F3F;
+}
+a:visited {
+ color: #17B0F1;
+}
+a:active {
+ color: #F1C517;
+}
+a:hover {
+ color: ##48C06C;
+}
