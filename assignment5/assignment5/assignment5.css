@@ -1,0 +1,66 @@
+* {
+  font-family: "arial";
+}
+
+.background-image {
+  width: 100%;
+  position: relative;
+}
+
+.title {
+  position: absolute;
+  color: #197bd2;
+  text-align: center;
+  left: 0;
+  top: 15%;
+  width: 100%;
+  font-family: "arial";
+  font-size: 210px;
+  font-family: fantasy;
+}
+
+.title-o {
+  color: #ffa500;
+  position: relative;
+  font-family: fantasy;
+}
+
+.container {
+}
+
+.tag-line {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: white;
+  width: 30%;
+  font-size: 23px;
+  text-align: right;
+  margin-right: 6%;
+  margin-top: 6%;
+}
+
+.pg {
+  width: 28%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.small-text {
+  font-size: 22px;
+  color: #197bd2;
+  font-weight: bold;
+  text-align: center;
+}
+
+.smaller {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.movie-link {
+  font-size: 22px;
+  color: #197bd2;
+  text-align: center;
+}
