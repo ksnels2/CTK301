@@ -21,7 +21,8 @@ body {
 
 h1 {
   color: #F85DAA;
-  font-family: Helvetica;
+  font-family: 'Antonio', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 h2 {
@@ -88,9 +89,15 @@ p {
 
 
 .bold{
-  font-weight: bold;
-}
-
+  padding: 10px;
+  margin: 20px;
+  width: 250px;
+  border: 2px solid #999;
+  background-color: #ccc;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 10px;
+  text-align: center;
+/*wont accully be used untill I firure out out to algin it to the right some how or a tecaher helps me.*/
 
 a {
     color:#ff0000;
@@ -107,3 +114,4 @@ a:hover {
 .none{
   clear: both;
 }
+<i class="bi bi-arrow-right-circle-fill"></i>
