@@ -1,13 +1,13 @@
 body {
-  background-color: #999999;
+  background-color:#FF6BFF;
 }
 
 #wrapper {
   margin: 24px auto;
-  width: 1200px;
+  width: 960px;
   border: 1px solid black;
   padding: 24px;
-  background-color: #ffffff;
+  background-color: #64F3F6;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   grid-column-gap: 24px;
@@ -23,6 +23,7 @@ h1 {
   color: #F85DAA;
   font-family: 'Antonio', sans-serif;
   font-family: 'Roboto', sans-serif;
+  border-bottom: 5px solid #000000;
 }
 
 h2 {
@@ -88,7 +89,7 @@ p {
 
 
 
-.bold{
+/*.bold{
   padding: 10px;
   margin: 20px;
   width: 250px;
@@ -114,4 +115,3 @@ a:hover {
 .none{
   clear: both;
 }
-<i class="bi bi-arrow-right-circle-fill"></i>
